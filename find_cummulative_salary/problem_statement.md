@@ -66,5 +66,3 @@ Calculate the cumulative salary summary for each employee in a unified table, ex
     * Month 1: 20 (20 + 0 + 0)
 * **Employee 2:** Only has one relevant salary record (month 1). 
 * **Employee 3:** Has two relevant salary records.
-
-**Let me know if you'd like an SQL solution to generate this cumulative salary summary!** 
