@@ -42,7 +42,7 @@ Calculate the cumulative salary summary for each employee in a unified table, ex
 
 **Output:**
 
-|----|-------|--------|
+
 | id | month | Salary |
 |----|-------|--------|
 | 1  | 7     | 90   |
